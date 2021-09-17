@@ -1,3 +1,4 @@
+// Online version here https://jsbench.me/vckto0tisk/1
 let n = 10000000;
 let a = [];
 
